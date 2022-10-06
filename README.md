@@ -1,4 +1,4 @@
-## <center> Hello there </center>
+# <p align="center">Hello there</p>
 
 - 🔭 I'm junior java backend developer
 - 👨‍💻 Learning `C`/`C++`/`Java`

@@ -1,7 +1,5 @@
 # <p align="center">💜*Hello there*💜</p>
 
-***
-
 <img align="right" alt="glitch" src="https://media0.giphy.com/media/dqI61vJ1ApuPm/giphy.gif" style="display:block; height:400px;">
 
 <div align="left" style="display:block; height:400px;">

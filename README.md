@@ -21,12 +21,10 @@
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" width="40"></a>
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" width="40"></a>
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" width="40"></a>
-    <div></div>
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/OpenShift.svg" width="40"></a>
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width="40"></a>
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" width="40"></a>
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CMake-Dark.svg" width="40"></a>
-    <div></div>
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bash-Dark.svg" width="40"></a>
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" width="40"></a>
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="40"></a>

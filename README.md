@@ -6,7 +6,7 @@
 - Learning `C`/`C++`/`Java`
 - Alumni of **École 42**
 - Student of **School 21**
-- CEO of **[ShakalBotEnterprises](http://shakalbotenterprises.ru)**
+- CEO of **[ShakalBotEnterprises](https://shakalbotenterprises.ru)**
 - You can reach me via **[telegram](https://t.me/pmrjo)**
 
 ## ***Skills:***
